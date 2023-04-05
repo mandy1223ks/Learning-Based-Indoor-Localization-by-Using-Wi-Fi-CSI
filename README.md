@@ -8,3 +8,6 @@ Technology has grown at this stage, medical long-term care (elderly tracking), f
 
 ## Framework
 ![image](https://github.com/mandy1223ks/Learning-Based-Indoor-Localization-by-Using-Wi-Fi-CSI/blob/main/framework_CSI.png)
+
+## Presentation PPT
+https://github.com/mandy1223ks/Learning-Based-Indoor-Localization-by-Using-Wi-Fi-CSI/blob/main/presentation.pdf
